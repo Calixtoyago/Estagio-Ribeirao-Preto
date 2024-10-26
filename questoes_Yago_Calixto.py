@@ -40,5 +40,5 @@ k = 1
 while k < indice:
     k += 1
     soma += k
-print('o resultado de k vai ser 77')
+print('O resultado de soma vai ser 77')
 print(k)
